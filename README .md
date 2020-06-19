@@ -7,7 +7,7 @@ Submitted to: Prof. Shahryar Rahnamayan
 
 We propose a RadViz3D visualization method, we distributed uniformly the N points on the surface of the sphere, then we obtained formulas for x, y, and z mappings using scatter 3D method.
 Follow the below simple steps to run the code:
-     1- open the following link https://mybinder.org/v2/gh/abeerbadawi/RadVis3D/45dbbe9941e9e067bdd33755dcf838dfe111cbcb
+     1- open the following link https://mybinder.org/v2/gh/abeerbadawi/RadVis3D/698ea86b95bbaef7be3c25ffe2bc3c437a9be618
      2- open the Function_RadVis3D.ipynb to check the core code explained in detail. In addition to all libraries you need to import.           Run this code if you want but it's unnecessary since it's already built inside the next codes.
      3- Once the Function_RadVis3D ran successfully, you can now run any of the folders (the folders are named with the dataset name)           with a total of 20 datasets
      4- Example:
