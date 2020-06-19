@@ -4,6 +4,7 @@
    - [x]  **Abdelrahman Elewah**
    - [x]  **Abeer Badawi**
    - [x]  **Haytham Aboulabbas**
+**Submitted to: Prof. Shahryar Rahnamayan**
   
 
 ## **We propose a RadViz3D visualization method, we distributed uniformly the N points on the surface of the sphere, then we obtained formulas for x, y, and z mappings using scatter 3D method.**
