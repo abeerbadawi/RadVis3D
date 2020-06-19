@@ -30,6 +30,6 @@
         4- We call our function (RadViz3D) with the given inputs to plot the 3D and 2D visualization successfully
     * To see the plot more clearly you can click on 'sphere' in the legend (right of the figure) to remove the sphere boundaries and see more details in the figure.
     * Furthermore, you can click on any of the label names in the legend (right of the figure) to remove or add it again if you want to see specific labels in the plot.
-        * Besides, you can zoom in and out by clicking on the left button of your mouse or laptop and move the touchpad. Also, you can move the figure placement by repeating the same steps except clicking the right button instead of the left.
+    * Besides, you can zoom in and out by clicking on the left button of your mouse or laptop and move the touchpad. Also, you can move the figure placement by repeating the same steps except clicking the right button instead of the left.
         
 ### 5- Hint: To plot a 3D visualization the dataset should consist of one label only. Some of the datasets had more than one label so we used Label Encoder technique to Encode other labels with a range of values to plot them accurately ###
